@@ -12,8 +12,7 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -22,7 +21,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://cassiep94.github.io/employee-directory/",
+ 
   "browserslist": {
     "production": [
       ">0.2%",
